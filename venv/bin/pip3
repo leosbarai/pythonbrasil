@@ -1,4 +1,4 @@
-#!/home/leonardo.sbarai/Python/PythonBrasil/venv/bin/python
+#!/home/leonardo.sbarai/Python/pythonbrasil2/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
