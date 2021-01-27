@@ -10,7 +10,7 @@ def major():
 
         if (number_one > number_two) and (number_one > number_three):
             print(f"O {number_one} é o maior número.")
-        elif(number_two > number_three):
+        elif number_two > number_three:
             print(f"O {number_two} é o maior número.")
         else:
             print(f"O {number_three} é o maior número.")
