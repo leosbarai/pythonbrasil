@@ -9,10 +9,10 @@ def tabajara():
         if salary <= 280.00:
             perc = 20
             increase = round((salary * perc)/100, 2)
-        elif (salary > 280.00) and (salary <= 750.00):
+        elif salary <= 750.00:
             perc = 15
             increase = round((salary * perc)/100, 2)
-        elif (salary > 750.00) and (salary <= 1500.00):
+        elif salary <= 1500.00:
             perc = 10
             increase = round((salary * perc)/100, 2)
         else:
