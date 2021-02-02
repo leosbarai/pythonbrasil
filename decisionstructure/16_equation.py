@@ -3,7 +3,7 @@ def equation():
     print("      Equação de 2º Grau! ")
     print("********************************** ")
 
-    ** fail **
+    # fail
 
 
 if __name__ == "__main__":
