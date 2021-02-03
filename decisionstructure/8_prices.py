@@ -18,5 +18,6 @@ def prices():
     except ValueError:
         print('Valor informado para o produto está incorreto, tente novamente!')
 
+
 if __name__ == "__main__":
     prices()
