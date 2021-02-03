@@ -6,7 +6,7 @@ def positive():
     try:
         number = float(input("Informe um número positivo ou negativo: "))
 
-        if (number >= 0):
+        if number >= 0:
             print(f"O número {number} é positivo!")
         else:
             print(f"O número {number} é negativo!")
